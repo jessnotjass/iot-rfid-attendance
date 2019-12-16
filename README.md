@@ -1,6 +1,8 @@
 # iot-rfid-attendance
 
-A web application that utilizes Arduino and an RFID Card Reader to log users.
+A javascript web application that utilizes Arduino and an RFID Card Reader to log users.
+
+Note: Arduino sketch not included.
 
 ## Installation
 
