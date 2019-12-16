@@ -1,0 +1,8 @@
+export const ADD_MEMBER = 'ADD_MEMBER'
+export const DELETE_MEMBER = 'DELETE_MEMBER'
+export const EDIT_MEMBER = 'EDIT_MEMBER'
+export const GET_MEMBERS = 'GET_MEMBERS'
+export const SET_IMAGE = 'SET_IMAGE'
+export const RESET_IMAGE = 'RESET_IMAGE'
+export const GET_LOGS = 'GET_LOGS'
+export const RESET_LOGS = 'RESET_LOGS'
