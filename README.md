@@ -1,6 +1,6 @@
 # iot-rfid-logger
 
-A javascript web application that utilizes Arduino and an RFID Card Reader to log users.
+A javascript web application that utilizes Arduino and a RFID Card Reader to log users.
 
 Note: Arduino sketch not included.
 
